@@ -9,7 +9,7 @@ body {
 
 /* Header */
 header {
-  background-color: pink;
+  background-color: darkred;
   color: white;
   padding: 20px;
   display: flex;
@@ -61,7 +61,7 @@ h1, h2 {
 
 /* Footer */
 footer {
-  background-color: pink ;
+  background-color: darkred ;
   color: white;
   text-align: center;
   padding: 15px;
